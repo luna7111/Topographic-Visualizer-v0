@@ -1,3 +1,7 @@
+> [!NOTE]
+>
+> This project is currently being rewritten in C++ and CMake and using RayLib to improve it's performance and portability.
+
 # FdF
 FdF is a project inside the 42 Common core. It consists on the development of a topographic map visualizer using pure C and the (very limited) MiniLibX graphic library.
 
